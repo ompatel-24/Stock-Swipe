@@ -53,6 +53,6 @@ Perfect for investors who want a **fun, interactive way** to explore the stock m
 
 ## 👤 Authors
 
-**Om Patel**
-**Rishab Shine**
-**Mathu Thavarajah.**
+**Om Patel,**
+**Rishab Shine, and**
+**Mathu Thavarajah**
