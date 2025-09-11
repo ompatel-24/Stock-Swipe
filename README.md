@@ -1,6 +1,6 @@
 # 📱 Stock Swipe
 
-**Stock Swipe** is a swipe-based stock recommendation app that learns your investment preferences and helps you discover the stocks most suited to your risk profile and interests. Think of it like Tinder—but for investing.
+**Stock Swipe** is a swipe-based stock recommendation app that learns your investment preferences and helps you discover the stocks most suited to your risk profile and interests. Think of it like Tinder, but for investing.
 
 ---
 
