@@ -48,11 +48,3 @@ Perfect for investors who want a **fun, interactive way** to explore the stock m
 ## 📱 Available On
 
 - Currently as a **Python simulation**
-
----
-
-## 👤 Authors
-
-**Om Patel,**
-**Rishab Shine, and**
-**Mathu Thavarajah**
