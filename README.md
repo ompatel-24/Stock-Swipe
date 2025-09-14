@@ -4,9 +4,9 @@
 
 ---
 
-![App Screenshot](assets/screenshot1.png)
-![App Screenshot](assets/screenshot2.png)
-![App Screenshot](assets/screenshot3.png)
+![App Screenshot](assets/image0.png)
+![App Screenshot](assets/image1.png)
+![App Screenshot](assets/image2.png)
 
 
 ## 🌟 Description
