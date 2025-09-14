@@ -4,9 +4,9 @@
 
 ---
 
-![App Screenshot](assets/image0.png)
-![App Screenshot](assets/image1.png)
-![App Screenshot](assets/image2.png)
+![App Screenshot](Ivy/image0.png)
+![App Screenshot](Ivy/image1.png)
+![App Screenshot](Ivy/image2.png)
 
 
 ## 🌟 Description
