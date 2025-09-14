@@ -13,7 +13,7 @@
 
 ## 🌟 Description
 
-Stock Swipe combines **user preferences**, **financial data**, and **machine learning** to create a personalized stock discovery experience. Swipe right to like a stock, left to skip. Our intelligent system learns your choices and improves recommendations with every swipe.
+Stock Swipe combines **user preferences**, **financial data**, and **machine learning** to create a personalized stock discovery experience. Swipe right to like a stock, left to skip. Our system learns your choices and improves recommendations with every swipe.
 
 Perfect for investors who want a **fun, interactive way** to explore the stock market without manually analyzing hundreds of tickers.
 
