@@ -5,9 +5,9 @@
 ---
 
 <p align="center">
-  <img src="Ivy/image0.png" alt="Screenshot 1" width="30%" />
-  <img src="Ivy/image1.png" alt="Screenshot 2" width="30%" />
-  <img src="Ivy/image2.png" alt="Screenshot 3" width="30%" />
+  <img src="Ivy/image0.png" alt="Screenshot 1" width="20%" />
+  <img src="Ivy/image1.png" alt="Screenshot 2" width="20%" />
+  <img src="Ivy/image2.png" alt="Screenshot 3" width="20%" />
 </p>
 
 
