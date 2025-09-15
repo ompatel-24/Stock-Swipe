@@ -44,3 +44,5 @@ Perfect for investors who want a **fun, interactive way** to explore the stock m
 2. Swipe through an initial batch of 20 stocks.
 3. Stock Swipe uses your likes/dislikes to **train a model** and rank the next batch.
 4. Repeat to continuously improve personalized stock recommendations.
+
+---
